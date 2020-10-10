@@ -1,7 +1,7 @@
 import React from 'react';
-import PlaylistHeader from '../styles/PlaylistHeader';
+import PlaylistHeader from '../PlaylistHeader';
 import PlaylistItems from '../containers/PlaylistItems';
-import Nightmode from '../styles/Nightmode';
+import Nightmode from '../Nightmode';
 
 const Playlist = props => (
   <>
